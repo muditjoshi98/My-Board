@@ -1,0 +1,18 @@
+body {
+  background-image: url(../img/prism.png);
+}
+
+.logo {
+  font-family: 'Major Mono Display', monospace;
+}
+
+.logo a {
+  color: rgba(255,255,255,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}.navbar-brand {
+	font-family: 'Major Mono Display', monospace;
+}
